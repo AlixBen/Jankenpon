@@ -13,4 +13,16 @@ Projet de pierre-feuille-ciseaux en Java
 ## Dépot
 
 - docs : documentation
-- src : sources du projet
+- projet/Janken : sources du projet
+  - ouvrir ce dossier comme un projet dans votre IDE
+
+## installation
+
+- cloner le projet depuis le dépot github [amyBradbury/Jankenpon](https://github.com/amyBradbury/Jankenpon)
+- basculer sur la branche dévelop pour avoir les dernier développement mergés : `git checkout develop`
+- pour travailler sur un ajout / correction, se positionner sur une branche correspondante
+  - si elle n'existe pas:
+    - la créer (à partir de develop) sur github,
+    - faire un pull
+  - `git checkout nom_de_ma_branche`
+  - 
