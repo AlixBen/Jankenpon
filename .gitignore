@@ -1,5 +1,12 @@
 # Created by https://www.gitignore.io/api/java,eclipse,intellij,netbeans,phpstorm,visualstudiocode
 
+# IDEA
+.idea/
+
+# NetBeans is relou
+build.xml
+manifest.mf
+
 ### Eclipse ###
 .metadata
 bin/
@@ -183,6 +190,7 @@ fabric.properties
 hs_err_pid*
 
 ### NetBeans ###
+nbproject/
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
