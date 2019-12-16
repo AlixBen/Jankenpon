@@ -3,6 +3,10 @@
 # IDEA
 .idea/
 
+# NetBeans is relou
+build.xml
+manifest.mf
+
 ### Eclipse ###
 .metadata
 bin/
