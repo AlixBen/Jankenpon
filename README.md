@@ -13,4 +13,5 @@ Projet de pierre-feuille-ciseaux en Java
 ## Dépot
 
 - docs : documentation
-- src : sources du projet
+- projet/Janken : sources du projet
+  - ouvrir ce dossier comme un projet dans votre IDE
