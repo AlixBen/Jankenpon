@@ -26,13 +26,10 @@ public class Main extends Application {
             //tant qu'il y a une ligne résultat
             while(res.next())
             {
-                System.out.print(res.getInt(1));
-                System.out.print("|");
                 System.out.print(res.getString("UTILISATEUR"));
                 System.out.print("|");
                 System.out.println(res.getString("MOT_DE_PASSE"));
             }
-            
             
             launch(args);
         } catch (SQLException e) {
